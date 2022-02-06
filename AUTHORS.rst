@@ -9,3 +9,4 @@ Patches and Suggestions
 ```````````````````````
 
 - John Troony (`@JohnTroony <https://github.com/JohnTroony>`_)
+Vp
